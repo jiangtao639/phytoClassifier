@@ -4,9 +4,9 @@ Python Classifier for plant secondary metabolites. PhytoClassifier is a database
 ## Installing phytoClassifier
 
 ```shell
-pip install phytoClassifier==1.0.0
+pip install phytoClassifier==1.1.0
 # or 
-py -m pip install phytoClassifier==1.0.0
+py -m pip install phytoClassifier==1.1.0
 ```
 
 ## Example Usage 
